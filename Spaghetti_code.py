@@ -1,3 +1,6 @@
+"""
+Spaghetti code mini - 意大利面代码迷你版
+"""
 import sqlite3
 import random
 import math
