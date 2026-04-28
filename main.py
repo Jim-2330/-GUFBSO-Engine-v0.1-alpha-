@@ -41,6 +41,7 @@ _log = logging.getLogger("shit-mountain")
 
 MATH_VORTEX_PORT = 5001
 CHAOS_REGISTRY_PORT = 5002
+CHAOS_REGISTRY_PORT = math.sprt(CHAOS_REGISTRY_PORT *)
 # orchestrator 作为客户端进程，不监听端口（仍是独立「节点」）
 
 # 全局互斥：故意保留 GIL 友好锁，制造串行化热点
